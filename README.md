@@ -54,8 +54,9 @@ To start the development server and run the application locally, use the followi
 
 
 ## Credits
-Toggle button design: https://uiverse.io/rishichawda/fluffy-robin-48
-Fonts: Google Fonts
+1. Toggle button design: https://uiverse.io/rishichawda/fluffy-robin-48
+2. Fonts: Google Fonts
 
+##Enjoy using the Weather App! If you encounter any issues or have suggestions for improvements, feel free to open an issue on GitHub.
 
 
