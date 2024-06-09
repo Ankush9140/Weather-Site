@@ -23,9 +23,11 @@ To run this application locally, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/weather-app.git
-  Or download and extract the files:
-  Download the ZIP file from the repository's main page.
-  Extract the ZIP file to a desired location on your system.
+Or download and extract the files:
+
+Download the ZIP file from the repository's main page.
+
+Extract the ZIP file to a desired location on your system.
 
 2. Navigate to the project directory:
    ```bash
