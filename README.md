@@ -7,6 +7,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 To install the dependencies, follow these steps:
-1. On terminal type npm install.
-2. On terminal type npm install axios.
-3. You are good to go.
+1. Open Project1 folder on the terminal.
+2. On terminal type npm install.
+3. On terminal type npm install axios.
+4. You are good to go.
