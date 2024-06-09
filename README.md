@@ -1,7 +1,8 @@
-# Weather App
 ![App Screenshot 1](./Project1/src/assets/ss3.png)
 ![App Screenshot 2](./Project1/src/assets/ss4.png)
 
+
+# Weather App
 This is a simple weather application built using React, Tailwind CSS for styling, and Axios to fetch data from APIs. It provides real-time weather information based on the user's location input.
 
 ## Features
