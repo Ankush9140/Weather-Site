@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/* TOOGLE CSS HAS BEEN TAKEN FROM https://uiverse.io/rishichawda/fluffy-robin-48 */
 #theme-toggle-button {
     font-size: 15px;
     position: relative;
