@@ -16,3 +16,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+/*-webkit-font-smoothing: This property is specific to WebKit browsers (like Safari and Chrome). It controls the rendering of fonts to enhance their appearance.
+
+antialiased: This value makes the text render with smoother edges, reducing the jaggedness, which makes the text appear cleaner and more readable.
+
+-moz-osx-font-smoothing: This property is specific to Firefox on macOS.
+
+grayscale: This value makes the text render with grayscale antialiasing, which can improve the readability of text on certain displays by smoothing the edges of the text.*/
